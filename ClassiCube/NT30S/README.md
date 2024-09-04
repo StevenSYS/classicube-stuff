@@ -1,0 +1,1 @@
+This is the texture packs from the pervious directory but modified to work with the ClassiCube server, New The30s.
